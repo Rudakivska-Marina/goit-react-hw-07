@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+}
+
+.forms {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0;
+}
+
+.phonebook {
+  display: flex;
+  flex-direction: column;
+  background-color: #d31a1a;
+  padding: 10px 20px;
+  border-radius: 12px;
+  width: 300px;
+  margin: 0;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  color: white;
+}

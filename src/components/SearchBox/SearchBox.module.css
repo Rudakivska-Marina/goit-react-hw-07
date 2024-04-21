@@ -1,0 +1,30 @@
+.label {
+  text-transform: capitalize;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: left;
+  color: white;
+  margin-bottom: 8px;
+}
+
+.input {
+  height: 34px;
+  border-radius: 6px;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  font-weight: 600;
+  color: #d31a1a;
+}
+
+.SearchBox {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  background-color: #d31a1a;
+  padding: 30px 20px;
+  border-radius: 12px;
+  width: 600px;
+  margin: 0;
+  margin-top: 10px;
+}
